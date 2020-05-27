@@ -37,8 +37,8 @@ switch(ch)
 You can select any algorithm from the list and then enter an array. Following that, enter a term that you want to search in the list.
 
 ### Execution
-To compile the code, simply run the ```shjavac Search.java```. To run the code, type ```shjava Search```
-```sh
+To compile the code, simply run the ```javac Search.java```. To run the code, type ```java Search```
+```
 javac Search.java
 java Search
 ```
