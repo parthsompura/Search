@@ -5,7 +5,7 @@ This code helps you to understand the different Searching algorithms. The sortin
 2. Binary Search
 3. Binary Search with recursion
 
-### Sourcerer
+### Sourcerer [![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/images/0)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/links/0)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/images/1)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/links/1)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/images/2)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/links/2)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/images/3)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/links/3)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/images/4)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/links/4)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/images/5)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/links/5)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/images/6)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/links/6)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/images/7)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Search/links/7)
 
 ### Code Requirements
 The example code is in Java ([version 1.8](https://java.com/en/download/) or higher will work).
