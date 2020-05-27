@@ -18,7 +18,7 @@ Search algorithms can be classified based on their mechanism of searching. Linea
 For more information, [see](https://en.wikipedia.org/wiki/Search_algorithm)
 
 ![Search](search.gif)
-
+```
 switch(ch)
 		{
 			case 1:
@@ -33,3 +33,4 @@ switch(ch)
 				BinarySearchRec(a,n,num,first,last);
 				break;
 		}
+```
