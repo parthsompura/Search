@@ -38,5 +38,7 @@ You can select any algorithm from the list and then enter an array. Following th
 
 ### Execution
 To compile the code, simply run the javac Search.java. To run the code, type java Search
+```cmd
 javac Search.java
 java Search
+```
