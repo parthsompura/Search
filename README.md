@@ -16,3 +16,5 @@ In computer science, a search algorithm is any algorithm which solves the Search
 Search algorithms can be classified based on their mechanism of searching. Linear search algorithms check every record for the one associated with a target key in a linear fashion.[3][4] Binary, or half interval searches, repeatedly target the center of the search structure and divide the search space in half.
 
 For more information, [see](https://en.wikipedia.org/wiki/Search_algorithm)
+
+![Search](search.gif)
