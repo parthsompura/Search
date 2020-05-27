@@ -18,3 +18,18 @@ Search algorithms can be classified based on their mechanism of searching. Linea
 For more information, [see](https://en.wikipedia.org/wiki/Search_algorithm)
 
 ![Search](search.gif)
+
+switch(ch)
+		{
+			case 1:
+				LinearSearch(a,n,num);
+				break;
+			case 2:
+				BinarySearch(a,n,num);
+				break;
+			case 3:
+				int first=0;
+				int last=n;
+				BinarySearchRec(a,n,num,first,last);
+				break;
+		}
